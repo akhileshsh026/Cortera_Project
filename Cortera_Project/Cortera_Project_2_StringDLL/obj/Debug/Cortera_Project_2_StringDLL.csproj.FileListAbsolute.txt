@@ -1,0 +1,5 @@
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project_2_StringDLL\bin\Debug\Cortera_Project_2_StringDLL.dll
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project_2_StringDLL\bin\Debug\Cortera_Project_2_StringDLL.pdb
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project_2_StringDLL\obj\Debug\Cortera_Project_2_StringDLL.csprojResolveAssemblyReference.cache
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project_2_StringDLL\obj\Debug\Cortera_Project_2_StringDLL.dll
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project_2_StringDLL\obj\Debug\Cortera_Project_2_StringDLL.pdb

@@ -1,0 +1,9 @@
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\bin\Debug\Cortera_Project.exe.config
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\bin\Debug\Cortera_Project.exe
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\bin\Debug\Cortera_Project.pdb
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\bin\Debug\Cortera_Project_2_StringDLL.dll
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\bin\Debug\Cortera_Project_2_StringDLL.pdb
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\obj\Debug\Cortera_Project.csprojResolveAssemblyReference.cache
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\obj\Debug\Cortera_Project.exe
+c:\users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\obj\Debug\Cortera_Project.pdb
+C:\Users\akumar\documents\visual studio 2012\Projects\Cortera_Project\Cortera_Project\bin\Debug\oracle.dataaccess.dll
